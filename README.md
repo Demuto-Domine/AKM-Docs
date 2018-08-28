@@ -8,7 +8,7 @@ sidebar: akm_sidebar
 folder: akm
 ---
 
-# Chapter 1: About This Manual
+##### Chapter 1: About This Manual
 
 ## Key Connection for SQL Server
 
